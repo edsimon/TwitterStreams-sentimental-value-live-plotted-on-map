@@ -1,2 +1,5 @@
-# TwitterStreams-sentimental-value-live-plotted-on-map
-Live plot for all tweets that have coordinates, Its by searching and som sentimental value to it.
+# TwitterStreams sentimental value live plotted on map
+So in this project I have been doing som explorations in the tweepy library.
+I have been trying to map the twitter feeds på location and got some pretty good reasults in my oppinion.
+
+![Screenshot](screenshot.png)
